@@ -5,7 +5,7 @@
 
 # ¡Hola, soy demonUP!
 Soy un programador apasionado por el aprendizaje constante, siempre en busca de nuevos retos tecnológicos.  <br>
-Con ambición y visión, me dedico al pentesting y a explorar vulnerabilidades en sistemas por pasatiempo,  <br>
+Con ambición y visión, me dedico al backend, pentesting y a explorar vulnerabilidades en sistemas por pasatiempo,  <br>
 adoptando la determinación de un verdadero cazador de recompensas: depredador y enfocado en alcanzar cada meta.  <br>
 Amo la lógica y el crecimiento continuo
 
