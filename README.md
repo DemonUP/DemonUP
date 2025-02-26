@@ -1,3 +1,6 @@
+<!-- Encabezado con un fondo suave -->
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Hola,%20soy%20demonUP!&fontSize=35&fontAlignY=35&animation=fadeIn)
+
 # ¡Hola, soy demonUP!
 
 Soy un programador apasionado por el aprendizaje constante, siempre en busca de nuevos retos tecnológicos.  
@@ -17,10 +20,22 @@ Amo la **lógica** y el **crecimiento continuo**.
 
 ---
 
-### Contacto
+## Hack The Box
 
-- **Hack The Box**: [Mi Perfil](https://app.hackthebox.com/LKBcXILJqvAhxEll0wyT38HsEhBhHJYu88jr9Vnnc5aiHr6w3VINepz95jF2)
+¡Aquí puedes ver mis estadísticas de Hack The Box!  
+Si te interesa el pentesting y la seguridad, echa un vistazo:
+
+![HTB Stats](htb_stats.svg)
+
+[**Mi Perfil en Hack The Box**](https://app.hackthebox.com/LKBcXILJqvAhxEll0wyT38HsEhBhHJYu88jr9Vnnc5aiHr6w3VINepz95jF2)
 
 ---
 
+### Contacto
 
+- **Correo**: [tu-email@example.com](mailto:tu-email@example.com)
+
+---
+
+<!-- Pie de página con un fondo suave -->
+![footer](https://capsule-render.vercel.app/api?type=soft&color=auto&height=80&section=footer)
