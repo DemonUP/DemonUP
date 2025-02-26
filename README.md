@@ -45,6 +45,6 @@ Amo la lógica y el crecimiento continuo
 
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=soft&color=F70000&height=80&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=soft&color=red&height=80&section=footer)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
