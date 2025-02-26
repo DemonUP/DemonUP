@@ -44,7 +44,5 @@ Amo la lógica y el crecimiento continuo
 [![](https://visitcount.itsvg.in/api?id=DemonUP&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
-
-![footer](https://capsule-render.vercel.app/api?type=soft&color=red&height=80&section=footer)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
