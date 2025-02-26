@@ -16,9 +16,7 @@ Soy un programador apasionado por el aprendizaje constante, siempre en busca de 
 
 ## Hack The Box
 
-Aquí se mostrarán mis métricas de Hack The Box, actualizadas automáticamente mediante GitHub Actions:
-
 ![HTB Stats](htb_stats.svg)
-<!-- Asegúrate de configurar el script y la acción para actualizar este archivo -->
+
 
 ---
