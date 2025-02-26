@@ -1,0 +1,33 @@
+name: Actualizar métricas de HTB
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Se ejecuta todos los días a la medianoche (ajusta a tu preferencia)
+  workflow_dispatch:     # Permite ejecutarlo manualmente desde la pestaña "Actions"
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clonar repositorio
+        uses: actions/checkout@v2
+
+      - name: Configurar Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Instalar dependencias
+        run: pip install requests
+
+      - name: Ejecutar script de HTB
+        run: python htb_stats.py
+        env:
+          HTB_TOKEN: ${{ secrets.HTB_TOKEN }}
+
+      - name: Hacer commit de cambios
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add htb_stats.svg
+          git diff --cached --quiet || (git commit -m "Actualización automática de métricas HTB" && git push)
