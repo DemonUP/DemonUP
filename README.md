@@ -1,41 +1,16 @@
-<!-- Encabezado con un fondo suave -->
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Hola,%20soy%20demonUP!&fontSize=35&fontAlignY=35&animation=fadeIn)
-
 # ¡Hola, soy demonUP!
+Soy un programador apasionado por el aprendizaje constante, siempre en busca de nuevos retos tecnológicos.  <br>Con ambición y visión, me dedico al pentesting y a explorar vulnerabilidades en sistemas por pasatiempo,  <br>adoptando la determinación de un verdadero cazador de recompensas: depredador y enfocado en alcanzar cada meta.  <br>Amo la lógica y el crecimiento continuo
 
-Soy un programador apasionado por el aprendizaje constante, siempre en busca de nuevos retos tecnológicos.  
-Con ambición y visión, me dedico al pentesting y a explorar vulnerabilidades en sistemas por pasatiempo,  
-adoptando la determinación de un verdadero cazador de recompensas: **depredador** y enfocado en alcanzar cada meta.  
-Amo la **lógica** y el **crecimiento continuo**.
 
----
+## Tecnologías que Disfruto:
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-## Tecnologías que Disfruto
-
-[![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)](https://www.linux.org)
-[![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white&style=for-the-badge)](https://www.gnu.org/software/bash/)
-[![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)](https://www.php.net)
-[![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge)](https://laravel.com)
-[![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)](https://www.python.org)
+## GitHub:
+![](https://github-readme-stats.vercel.app/api?username=DemonUP&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=DemonUP&theme=shadow_red&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DemonUP&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=DemonUP&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## Hack The Box
-
-¡Aquí puedes ver mis estadísticas de Hack The Box!  
-Si te interesa el pentesting y la seguridad, echa un vistazo:
-
-![HTB Stats](htb_stats.svg)
-
-[**Mi Perfil en Hack The Box**](https://app.hackthebox.com/LKBcXILJqvAhxEll0wyT38HsEhBhHJYu88jr9Vnnc5aiHr6w3VINepz95jF2)
-
----
-
-### Contacto
-
-- **Correo**: [tu-email@example.com](mailto:tu-email@example.com)
-
----
-
-<!-- Pie de página con un fondo suave -->
-![footer](https://capsule-render.vercel.app/api?type=soft&color=auto&height=80&section=footer)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
