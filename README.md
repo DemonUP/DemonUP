@@ -1,4 +1,4 @@
-# ¡Hola, soy demonUP! 👋
+# ¡Hola, soy demonUP! 
 
 Soy un programador apasionado por el aprendizaje constante, siempre en busca de nuevos retos tecnológicos. Con ambición y visión, me dedico al pentesting y a explorar vulnerabilidades en sistemas por pasatiempo, adoptando la determinación de un verdadero cazador de recompensas: depredador y enfocado en alcanzar cada meta. Amo la lógica y el crecimiento continuo.
 
@@ -20,12 +20,6 @@ Aquí se mostrarán mis métricas de Hack The Box, actualizadas automáticamente
 
 ![HTB Stats](htb_stats.svg)
 <!-- Asegúrate de configurar el script y la acción para actualizar este archivo -->
-
----
-
-## Contacto
-
-Puedes contactarme en: [tu-email@example.com](mailto:tu-email@example.com)
 
 ---
 
