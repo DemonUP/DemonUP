@@ -1,32 +1,12 @@
-<div align="center">
+# Hola, soy demonUP 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=C9D1D9&center=true&vCenter=true&width=435&lines=demonUP" alt="Typing SVG" />
+Desarrollador backend desde Colombia. Me gusta romper cosas para entender cómo funcionan y después construirlas mejor.
 
-**Backend Developer · Pentester · Bug Hunter**
-
-Programador enfocado en backend, pentesting y caza de vulnerabilidades.  
-Amo la lógica, el crecimiento continuo y los retos que parecen imposibles.
-
-[![](https://visitcount.itsvg.in/api?id=DemonUP&icon=0&color=12)](https://visitcount.itsvg.in)
-
-</div>
+Trabajo principalmente con **PHP/Laravel** y **Python**, aunque me muevo cómodo en todo lo que sea terminal y servidores. En mi tiempo libre hago pentesting y busco vulnerabilidades — algo entre hobby y obsesión.
 
 ---
 
-### Sobre mí
-
-```python
-class DemonUP:
-    role      = "Backend Developer"
-    hobby     = "Pentesting & Bug Hunting"
-    languages = ["Python", "PHP", "Bash", "JavaScript"]
-    stack     = ["Laravel", "Node.js", "Docker", "MySQL", "MongoDB"]
-    motto     = "La lógica es mi arma"
-```
-
----
-
-### Tecnologías
+### Lo que uso día a día
 
 <div align="center">
 
@@ -47,16 +27,16 @@ class DemonUP:
 
 ---
 
-### GitHub
+### Mis números en GitHub
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=DemonUP&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
-<img width="48%" src="https://nirzak-streak-stats.vercel.app/?user=DemonUP&theme=github-dark-blue&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=DemonUP&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&locale=es" />
+<img width="48%" src="https://nirzak-streak-stats.vercel.app/?user=DemonUP&theme=github-dark-blue&hide_border=true&locale=es" />
 
 <br>
 
-<img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DemonUP&theme=github_dark&hide_border=true&layout=compact&include_all_commits=true&count_private=true" />
+<img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DemonUP&theme=github_dark&hide_border=true&layout=compact&include_all_commits=true&count_private=true&locale=es" />
 
 </div>
 
@@ -64,7 +44,6 @@ class DemonUP:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DemonUP&bg_color=0d1117&color=8b949e&line=58a6ff&point=c9d1d9&area=true&area_color=1f6feb33&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DemonUP&bg_color=0d1117&color=8b949e&line=58a6ff&point=c9d1d9&area=true&area_color=1f6feb33&hide_border=true&custom_title=Actividad%20reciente" width="95%"/>
 
 </div>
-
